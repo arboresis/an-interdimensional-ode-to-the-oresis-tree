@@ -343,8 +343,6 @@ input {
     height: 100%;
     width: 100%;
     display: inline-grid;
-    grid-template-columns: auto 0px auto 0px;
-    grid-template-rows: 35% 35%;
     align-content: center;
     align-items: center;
     text-align: center;
@@ -354,6 +352,8 @@ input {
 @media only screen and (orientation: landscape) {
     #regularbutton-grid {
         display: inline-flex;
+        grid-template-columns: auto 0px auto 0px;
+        grid-template-rows: 35% 35%;
     }
 }
 
