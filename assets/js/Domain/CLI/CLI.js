@@ -156,7 +156,7 @@ class CLI {
         this.output('Hello there, stranger! I\'m <b>Gonçalo de Jesus</b>, a <b>Narrative and Game Designer, Writer, and Game Developer</b>.<br/><br/>'
             + 'Make yourself at home in my little corner of the internet, where I hope you\'ll have a wonderful and inspiring stay.<br/>'
             + '<br/>'
-            + '<div style="padding-left: 2%; padding-bottom:12px; line-height: 100%">Please make sure to check out my <a href="https://arboresis.github.io/goncalodejesus" target="_blank" style="color: #000; white-space: nowrap;"><b><i>⌯ Personal website</i></b></a>.<br/>You can reach it at any time through the top bar.</div>'
+            + '<div style="padding-left: 2%; padding-bottom:12px; line-height: 100%">Please make sure to check out my <a href="https://arboresis.github.io/goncalodejesus" target="_blank" style="color: #000; white-space: nowrap;"><b><i>⊹ Personal website</i></b></a>.<br/>You can reach it at any time through the top bar.</div>'
             + '<div class="vertical-text-divider"></div><br/>', 5, undefined, undefined, undefined, 'intro-text');
 
         this.output('<b>Welcome to <i>An Interdimensional Ode to the Oresis Tree</i>!</b><br/>'
