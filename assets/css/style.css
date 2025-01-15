@@ -285,7 +285,7 @@ input {
     background-color: var(--background-color);
     color: #090909;
     opacity: 1;
-    height: 12.5%;
+    height: 10vh;
     width: 100%;
     position: fixed;
     z-index: 1;
@@ -293,7 +293,7 @@ input {
 
 @media only screen and (orientation: landscape) {
     .scorebar-background {
-        height: 5%;
+        height: 10vh;
         width: 100%;
     }
 }
@@ -302,7 +302,7 @@ input {
     background-color: #090909;
     color: #090909;
     opacity: 0.75;
-    height: 12.5%;
+    height: 10vh;
     width: 100%;
     position: fixed;
     z-index: 2;
@@ -310,7 +310,7 @@ input {
 
 @media only screen and (orientation: landscape) {
     .scorebar {
-        height: 5%;
+        height: 10vh;
         width: 100%;
     }
 }
@@ -397,7 +397,7 @@ input {
 @media only screen and (orientation: landscape) {
     .screen {
         height: 90vh;
-        top: calc(12.5vh / 2);
+        top: calc(20vh / 2);
     }
 }
 
